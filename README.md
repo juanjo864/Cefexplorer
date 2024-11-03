@@ -1,6 +1,4 @@
 
-IMPORTANTE
-
 Tienes que instalar en Nuget el archivo
 
 CefSharp.Wpf
