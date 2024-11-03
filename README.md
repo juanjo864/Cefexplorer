@@ -1,13 +1,9 @@
 
 IMPORTANTE
 
-Tienes que instalar en Nuget estos archivos
+Tienes que instalar en Nuget el archivo
 
-CefSharp.Common.126.2.180
-
-chromiumembeddedframework.runtime.win-x64.126.2.18
-
-chromiumembeddedframework.runtime.win-x86.126.2.18
+CefSharp.Wpf
 
 Los iconos que he puesto en el proyecto los he cogido de esta pagina web os dejo los link de los iconos:
 https://pixabay.com/es/vectors/flecha-verde-izquierda-direcci%C3%B3n-303156/
