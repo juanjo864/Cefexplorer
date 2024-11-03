@@ -1,0 +1,127 @@
+﻿<Window
+    x:Class="navegadorweb.Cefexplorer"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:cefSharp="clr-namespace:CefSharp.Wpf;assembly=CefSharp.Wpf"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:local="clr-namespace:navegadorweb"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    Title="Cefexplorer"
+    Width="1120"
+    Height="550"
+    WindowStartupLocation="CenterScreen"
+    mc:Ignorable="d" 
+    
+    >
+   
+    <Window.Resources>
+        <ContextMenu x:Key="menus" >
+            <MenuItem Header="eliminar" Click="eliminare" IsEnabled="True"/>
+        </ContextMenu>
+        
+    </Window.Resources>
+  
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="30" />
+            <RowDefinition Height="30" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+        <DockPanel Grid.Row="0">
+            <Menu x:Name="componenteurl1">
+                <MenuItem x:Name="atras" Click="atras_click" ToolTip="atras">
+                    <MenuItem.Icon>
+                        <Image
+                            Width="16"
+                            Height="16"
+                            Source="https://cdn.pixabay.com/photo/2014/04/02/10/13/arrow-303156_1280.png" />
+                    </MenuItem.Icon>
+                </MenuItem>
+                <MenuItem x:Name="adelante" Click="adelante_click" ToolTip="adelante">
+                    <MenuItem.Icon>
+                        <Image
+                            Width="16"
+                            Height="16"
+                            Source="https://cdn.pixabay.com/photo/2012/04/13/00/20/arrow-31213_1280.png" />
+                    </MenuItem.Icon>
+                </MenuItem>
+                <MenuItem x:Name="recarga" Click="recargar" ToolTip="recargar">
+                    <MenuItem.Icon>
+                        <Image
+                            Width="16"
+                            Height="16"
+                            Source="https://cdn.pixabay.com/photo/2013/07/13/12/20/recycle-159650_1280.png" />
+                    </MenuItem.Icon>
+                </MenuItem>
+                <MenuItem  Name="favoritoss" ToolTip="favoritos">
+                    <MenuItem.Icon>
+                        <Image Source="https://cdn.pixabay.com/photo/2012/04/01/12/46/folder-23275_1280.png" Width="16" Height="16"/>
+                    </MenuItem.Icon>
+                </MenuItem>
+            </Menu>
+          
+        </DockPanel>
+        <Separator Grid.RowSpan="2" Margin="-10,10,10,24" />
+        <DockPanel Grid.Row="1">
+            <Menu x:Name="componenteurl">
+                <MenuItem x:Name="parar" Click="stop" ToolTip="cancelar">
+                    <MenuItem.Icon>
+                        <Image Source="https://cdn.pixabay.com/photo/2023/02/07/00/34/close-7772967_1280.png" Width="16" Height="16"/>
+                    </MenuItem.Icon>
+                </MenuItem>
+                <MenuItem x:Name="home" Click="inicio_click" ToolTip="home">
+                    <MenuItem.Icon>
+                        <Image
+                            Width="16"
+                            Height="16"
+                            Source="https://cdn.pixabay.com/photo/2013/07/12/12/56/home-146585_1280.png" />
+                    </MenuItem.Icon>
+                </MenuItem>
+                <Border CornerRadius="10" BorderBrush="Black" BorderThickness="1" Padding="0" Background="White">
+                    <TextBox
+                        x:Name="urls"
+                        Width="900"
+                        Height="20"
+                        Margin="0,0,1,0"
+                        VerticalContentAlignment="Center"
+                        KeyDown="buscarenter" BorderThickness="0" Background="Transparent" >
+                       
+                    </TextBox>
+                </Border>
+                <MenuItem x:Name="historial" Click="history_click" ToolTip="historial">
+                    <MenuItem.Icon>
+                        <Image
+                            Width="16"
+                            Height="16"
+                            Source="https://cdn.pixabay.com/photo/2016/08/19/20/37/time-1606153_1280.png" />
+                    </MenuItem.Icon>
+                </MenuItem>
+                <MenuItem x:Name="opciones" ToolTip="opciones">
+                    <MenuItem.Icon>
+                        <Image
+                            Width="16"
+                            Height="16"
+                            Source="https://cdn.pixabay.com/photo/2018/08/18/02/54/more-3614167_1280.png" />
+                    </MenuItem.Icon>
+                    <MenuItem Click="borrarhistrial" Header="borrar el historial" />
+                    <MenuItem x:Name="imprimir" Click="imprimir_click" Header="imprimir" />
+                    <MenuItem x:Name="favorito" Header="favorito" Click="favoritos_click"/>
+                    <MenuItem x:Name="codigofuente" Header="ver codigo fuente" Click="codigofuentes"/>
+                    <MenuItem Header="a cerca de" Click="acercade_click" />
+                    
+                </MenuItem>
+            </Menu>
+        </DockPanel>
+        <cefSharp:ChromiumWebBrowser
+            Name="buscador"
+            Grid.Row="2"
+            Address="https://www.google.com"
+            LoadingStateChanged="cargarurl" AddressChanged="urltexbox"/>
+        <ListBox
+            x:Name="histo"
+            Grid.Row="2"
+            Margin="10,0,10,0"
+            Visibility="Hidden" />
+
+    </Grid>
+</Window>

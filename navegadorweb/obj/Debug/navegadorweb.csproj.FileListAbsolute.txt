@@ -1,0 +1,274 @@
+D:\Proyecto C#\navegadorweb\navegadorweb\bin\Debug\CefSharp.Core.Runtime.dll
+D:\Proyecto C#\navegadorweb\navegadorweb\bin\Debug\CefSharp.Core.Runtime.pdb
+D:\Proyecto C#\navegadorweb\navegadorweb\bin\Debug\CefSharp.Core.Runtime.xml
+D:\Proyecto C#\navegadorweb\navegadorweb\bin\Debug\chrome_100_percent.pak
+D:\Proyecto C#\navegadorweb\navegadorweb\bin\Debug\chrome_200_percent.pak
+D:\Proyecto C#\navegadorweb\navegadorweb\bin\Debug\chrome_elf.dll
+D:\Proyecto C#\navegadorweb\navegadorweb\bin\Debug\d3dcompiler_47.dll
+D:\Proyecto C#\navegadorweb\navegadorweb\bin\Debug\icudtl.dat
+D:\Proyecto C#\navegadorweb\navegadorweb\bin\Debug\libcef.dll
+D:\Proyecto C#\navegadorweb\navegadorweb\bin\Debug\libEGL.dll
+D:\Proyecto C#\navegadorweb\navegadorweb\bin\Debug\libGLESv2.dll
+D:\Proyecto C#\navegadorweb\navegadorweb\bin\Debug\resources.pak
+D:\Proyecto C#\navegadorweb\navegadorweb\bin\Debug\snapshot_blob.bin
+D:\Proyecto C#\navegadorweb\navegadorweb\bin\Debug\v8_context_snapshot.bin
+D:\Proyecto C#\navegadorweb\navegadorweb\bin\Debug\vk_swiftshader.dll
+D:\Proyecto C#\navegadorweb\navegadorweb\bin\Debug\vk_swiftshader_icd.json
+D:\Proyecto C#\navegadorweb\navegadorweb\bin\Debug\vulkan-1.dll
+D:\Proyecto C#\navegadorweb\navegadorweb\bin\Debug\locales\af.pak
+D:\Proyecto C#\navegadorweb\navegadorweb\bin\Debug\locales\am.pak
+D:\Proyecto C#\navegadorweb\navegadorweb\bin\Debug\locales\ar.pak
+D:\Proyecto C#\navegadorweb\navegadorweb\bin\Debug\locales\bg.pak
+D:\Proyecto C#\navegadorweb\navegadorweb\bin\Debug\locales\bn.pak
+D:\Proyecto C#\navegadorweb\navegadorweb\bin\Debug\locales\ca.pak
+D:\Proyecto C#\navegadorweb\navegadorweb\bin\Debug\locales\cs.pak
+D:\Proyecto C#\navegadorweb\navegadorweb\bin\Debug\locales\da.pak
+D:\Proyecto C#\navegadorweb\navegadorweb\bin\Debug\locales\de.pak
+D:\Proyecto C#\navegadorweb\navegadorweb\bin\Debug\locales\el.pak
+D:\Proyecto C#\navegadorweb\navegadorweb\bin\Debug\locales\en-GB.pak
+D:\Proyecto C#\navegadorweb\navegadorweb\bin\Debug\locales\en-US.pak
+D:\Proyecto C#\navegadorweb\navegadorweb\bin\Debug\locales\es-419.pak
+D:\Proyecto C#\navegadorweb\navegadorweb\bin\Debug\locales\es.pak
+D:\Proyecto C#\navegadorweb\navegadorweb\bin\Debug\locales\et.pak
+D:\Proyecto C#\navegadorweb\navegadorweb\bin\Debug\locales\fa.pak
+D:\Proyecto C#\navegadorweb\navegadorweb\bin\Debug\locales\fi.pak
+D:\Proyecto C#\navegadorweb\navegadorweb\bin\Debug\locales\fil.pak
+D:\Proyecto C#\navegadorweb\navegadorweb\bin\Debug\locales\fr.pak
+D:\Proyecto C#\navegadorweb\navegadorweb\bin\Debug\locales\gu.pak
+D:\Proyecto C#\navegadorweb\navegadorweb\bin\Debug\locales\he.pak
+D:\Proyecto C#\navegadorweb\navegadorweb\bin\Debug\locales\hi.pak
+D:\Proyecto C#\navegadorweb\navegadorweb\bin\Debug\locales\hr.pak
+D:\Proyecto C#\navegadorweb\navegadorweb\bin\Debug\locales\hu.pak
+D:\Proyecto C#\navegadorweb\navegadorweb\bin\Debug\locales\id.pak
+D:\Proyecto C#\navegadorweb\navegadorweb\bin\Debug\locales\it.pak
+D:\Proyecto C#\navegadorweb\navegadorweb\bin\Debug\locales\ja.pak
+D:\Proyecto C#\navegadorweb\navegadorweb\bin\Debug\locales\kn.pak
+D:\Proyecto C#\navegadorweb\navegadorweb\bin\Debug\locales\ko.pak
+D:\Proyecto C#\navegadorweb\navegadorweb\bin\Debug\locales\lt.pak
+D:\Proyecto C#\navegadorweb\navegadorweb\bin\Debug\locales\lv.pak
+D:\Proyecto C#\navegadorweb\navegadorweb\bin\Debug\locales\ml.pak
+D:\Proyecto C#\navegadorweb\navegadorweb\bin\Debug\locales\mr.pak
+D:\Proyecto C#\navegadorweb\navegadorweb\bin\Debug\locales\ms.pak
+D:\Proyecto C#\navegadorweb\navegadorweb\bin\Debug\locales\nb.pak
+D:\Proyecto C#\navegadorweb\navegadorweb\bin\Debug\locales\nl.pak
+D:\Proyecto C#\navegadorweb\navegadorweb\bin\Debug\locales\pl.pak
+D:\Proyecto C#\navegadorweb\navegadorweb\bin\Debug\locales\pt-BR.pak
+D:\Proyecto C#\navegadorweb\navegadorweb\bin\Debug\locales\pt-PT.pak
+D:\Proyecto C#\navegadorweb\navegadorweb\bin\Debug\locales\ro.pak
+D:\Proyecto C#\navegadorweb\navegadorweb\bin\Debug\locales\ru.pak
+D:\Proyecto C#\navegadorweb\navegadorweb\bin\Debug\locales\sk.pak
+D:\Proyecto C#\navegadorweb\navegadorweb\bin\Debug\locales\sl.pak
+D:\Proyecto C#\navegadorweb\navegadorweb\bin\Debug\locales\sr.pak
+D:\Proyecto C#\navegadorweb\navegadorweb\bin\Debug\locales\sv.pak
+D:\Proyecto C#\navegadorweb\navegadorweb\bin\Debug\locales\sw.pak
+D:\Proyecto C#\navegadorweb\navegadorweb\bin\Debug\locales\ta.pak
+D:\Proyecto C#\navegadorweb\navegadorweb\bin\Debug\locales\te.pak
+D:\Proyecto C#\navegadorweb\navegadorweb\bin\Debug\locales\th.pak
+D:\Proyecto C#\navegadorweb\navegadorweb\bin\Debug\locales\tr.pak
+D:\Proyecto C#\navegadorweb\navegadorweb\bin\Debug\locales\uk.pak
+D:\Proyecto C#\navegadorweb\navegadorweb\bin\Debug\locales\ur.pak
+D:\Proyecto C#\navegadorweb\navegadorweb\bin\Debug\locales\vi.pak
+D:\Proyecto C#\navegadorweb\navegadorweb\bin\Debug\locales\zh-CN.pak
+D:\Proyecto C#\navegadorweb\navegadorweb\bin\Debug\locales\zh-TW.pak
+D:\Proyecto C#\navegadorweb\navegadorweb\bin\Debug\CefSharp.BrowserSubprocess.Core.dll
+D:\Proyecto C#\navegadorweb\navegadorweb\bin\Debug\CefSharp.BrowserSubprocess.Core.pdb
+D:\Proyecto C#\navegadorweb\navegadorweb\bin\Debug\CefSharp.BrowserSubprocess.exe
+D:\Proyecto C#\navegadorweb\navegadorweb\bin\Debug\CefSharp.BrowserSubprocess.pdb
+D:\Proyecto C#\navegadorweb\navegadorweb\bin\Debug\navegadorweb.exe.config
+D:\Proyecto C#\navegadorweb\navegadorweb\bin\Debug\navegadorweb.exe
+D:\Proyecto C#\navegadorweb\navegadorweb\bin\Debug\navegadorweb.pdb
+D:\Proyecto C#\navegadorweb\navegadorweb\bin\Debug\CefSharp.Core.dll
+D:\Proyecto C#\navegadorweb\navegadorweb\bin\Debug\CefSharp.dll
+D:\Proyecto C#\navegadorweb\navegadorweb\bin\Debug\CefSharp.Wpf.dll
+D:\Proyecto C#\navegadorweb\navegadorweb\bin\Debug\CefSharp.pdb
+D:\Proyecto C#\navegadorweb\navegadorweb\bin\Debug\CefSharp.xml
+D:\Proyecto C#\navegadorweb\navegadorweb\bin\Debug\CefSharp.Core.pdb
+D:\Proyecto C#\navegadorweb\navegadorweb\bin\Debug\CefSharp.Core.xml
+D:\Proyecto C#\navegadorweb\navegadorweb\bin\Debug\CefSharp.Wpf.pdb
+D:\Proyecto C#\navegadorweb\navegadorweb\bin\Debug\CefSharp.Wpf.xml
+D:\Proyecto C#\navegadorweb\navegadorweb\obj\Debug\navegadorweb.csproj.AssemblyReference.cache
+D:\Proyecto C#\navegadorweb\navegadorweb\obj\Debug\App.g.cs
+D:\Proyecto C#\navegadorweb\navegadorweb\obj\Debug\navegadorweb_Content.g.cs
+D:\Proyecto C#\navegadorweb\navegadorweb\obj\Debug\navegadorweb_MarkupCompile.cache
+D:\Proyecto C#\navegadorweb\navegadorweb\obj\Debug\navegadorweb_MarkupCompile.lref
+D:\Proyecto C#\navegadorweb\navegadorweb\obj\Debug\navegadorweb.g.resources
+D:\Proyecto C#\navegadorweb\navegadorweb\obj\Debug\navegadorweb.Properties.Resources.resources
+D:\Proyecto C#\navegadorweb\navegadorweb\obj\Debug\navegadorweb.csproj.GenerateResource.cache
+D:\Proyecto C#\navegadorweb\navegadorweb\obj\Debug\navegadorweb.csproj.CoreCompileInputs.cache
+D:\Proyecto C#\navegadorweb\navegadorweb\obj\Debug\navegadorweb.csproj.CopyComplete
+D:\Proyecto C#\navegadorweb\navegadorweb\obj\Debug\navegadorweb.exe
+D:\Proyecto C#\navegadorweb\navegadorweb\obj\Debug\navegadorweb.pdb
+D:\Proyecto C#\navegadorweb\navegadorweb\bin\Debug\x86\WebView2Loader.dll
+D:\Proyecto C#\navegadorweb\navegadorweb\bin\Debug\x64\WebView2Loader.dll
+D:\Proyecto C#\navegadorweb\navegadorweb\bin\Debug\arm64\WebView2Loader.dll
+D:\Proyecto C#\navegadorweb\navegadorweb\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Proyecto C#\navegadorweb\navegadorweb\bin\Debug\Microsoft.Web.WebView2.Core.dll
+D:\Proyecto C#\navegadorweb\navegadorweb\bin\Debug\Microsoft.Web.WebView2.DevToolsProtocolExtension.dll
+D:\Proyecto C#\navegadorweb\navegadorweb\bin\Debug\Microsoft.Web.WebView2.WinForms.dll
+D:\Proyecto C#\navegadorweb\navegadorweb\bin\Debug\Microsoft.Web.WebView2.Wpf.dll
+D:\Proyecto C#\navegadorweb\navegadorweb\bin\Debug\System.Buffers.dll
+D:\Proyecto C#\navegadorweb\navegadorweb\bin\Debug\System.Memory.dll
+D:\Proyecto C#\navegadorweb\navegadorweb\bin\Debug\System.Numerics.Vectors.dll
+D:\Proyecto C#\navegadorweb\navegadorweb\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Proyecto C#\navegadorweb\navegadorweb\bin\Debug\System.Text.Encodings.Web.dll
+D:\Proyecto C#\navegadorweb\navegadorweb\bin\Debug\System.Text.Json.dll
+D:\Proyecto C#\navegadorweb\navegadorweb\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Proyecto C#\navegadorweb\navegadorweb\bin\Debug\System.ValueTuple.dll
+D:\Proyecto C#\navegadorweb\navegadorweb\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Proyecto C#\navegadorweb\navegadorweb\bin\Debug\Microsoft.Web.WebView2.Core.xml
+D:\Proyecto C#\navegadorweb\navegadorweb\bin\Debug\Microsoft.Web.WebView2.DevToolsProtocolExtension.xml
+D:\Proyecto C#\navegadorweb\navegadorweb\bin\Debug\Microsoft.Web.WebView2.WinForms.xml
+D:\Proyecto C#\navegadorweb\navegadorweb\bin\Debug\Microsoft.Web.WebView2.Wpf.xml
+D:\Proyecto C#\navegadorweb\navegadorweb\bin\Debug\System.Buffers.xml
+D:\Proyecto C#\navegadorweb\navegadorweb\bin\Debug\System.Memory.xml
+D:\Proyecto C#\navegadorweb\navegadorweb\bin\Debug\System.Numerics.Vectors.xml
+D:\Proyecto C#\navegadorweb\navegadorweb\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Proyecto C#\navegadorweb\navegadorweb\bin\Debug\System.Text.Encodings.Web.xml
+D:\Proyecto C#\navegadorweb\navegadorweb\bin\Debug\System.Text.Json.xml
+D:\Proyecto C#\navegadorweb\navegadorweb\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Proyecto C#\navegadorweb\navegadorweb\bin\Debug\System.ValueTuple.xml
+D:\Proyecto C#\navegadorweb\navegadorweb\obj\Debug\borrarhistorialpopup.g.cs
+D:\Proyecto C#\navegadorweb\navegadorweb\obj\Debug\borrarhistorialpopup.baml
+D:\Proyecto C#\navegadorweb\navegadorweb\obj\Debug\Guardadodehistorialpopup.g.cs
+D:\Proyecto C#\navegadorweb\navegadorweb\obj\Debug\Guardadodehistorialpopup.baml
+D:\Proyecto C#\navegadorweb\navegadorweb\obj\Debug\Historialexistente.g.cs
+D:\Proyecto C#\navegadorweb\navegadorweb\obj\Debug\Historialexistente.baml
+D:\Proyecto C#\navegadorweb\navegadorweb\obj\Debug\Cefexplorer.g.cs
+D:\Proyecto C#\navegadorweb\navegadorweb\obj\Debug\Cefexplorer.baml
+D:\Proyecto C#\navegador web\navegadorweb\bin\Debug\CefSharp.Core.Runtime.dll
+D:\Proyecto C#\navegador web\navegadorweb\bin\Debug\CefSharp.Core.Runtime.pdb
+D:\Proyecto C#\navegador web\navegadorweb\bin\Debug\CefSharp.Core.Runtime.xml
+D:\Proyecto C#\navegador web\navegadorweb\bin\Debug\chrome_100_percent.pak
+D:\Proyecto C#\navegador web\navegadorweb\bin\Debug\chrome_200_percent.pak
+D:\Proyecto C#\navegador web\navegadorweb\bin\Debug\chrome_elf.dll
+D:\Proyecto C#\navegador web\navegadorweb\bin\Debug\d3dcompiler_47.dll
+D:\Proyecto C#\navegador web\navegadorweb\bin\Debug\icudtl.dat
+D:\Proyecto C#\navegador web\navegadorweb\bin\Debug\libcef.dll
+D:\Proyecto C#\navegador web\navegadorweb\bin\Debug\libEGL.dll
+D:\Proyecto C#\navegador web\navegadorweb\bin\Debug\libGLESv2.dll
+D:\Proyecto C#\navegador web\navegadorweb\bin\Debug\resources.pak
+D:\Proyecto C#\navegador web\navegadorweb\bin\Debug\snapshot_blob.bin
+D:\Proyecto C#\navegador web\navegadorweb\bin\Debug\v8_context_snapshot.bin
+D:\Proyecto C#\navegador web\navegadorweb\bin\Debug\vk_swiftshader.dll
+D:\Proyecto C#\navegador web\navegadorweb\bin\Debug\vk_swiftshader_icd.json
+D:\Proyecto C#\navegador web\navegadorweb\bin\Debug\vulkan-1.dll
+D:\Proyecto C#\navegador web\navegadorweb\bin\Debug\locales\af.pak
+D:\Proyecto C#\navegador web\navegadorweb\bin\Debug\locales\am.pak
+D:\Proyecto C#\navegador web\navegadorweb\bin\Debug\locales\ar.pak
+D:\Proyecto C#\navegador web\navegadorweb\bin\Debug\locales\bg.pak
+D:\Proyecto C#\navegador web\navegadorweb\bin\Debug\locales\bn.pak
+D:\Proyecto C#\navegador web\navegadorweb\bin\Debug\locales\ca.pak
+D:\Proyecto C#\navegador web\navegadorweb\bin\Debug\locales\cs.pak
+D:\Proyecto C#\navegador web\navegadorweb\bin\Debug\locales\da.pak
+D:\Proyecto C#\navegador web\navegadorweb\bin\Debug\locales\de.pak
+D:\Proyecto C#\navegador web\navegadorweb\bin\Debug\locales\el.pak
+D:\Proyecto C#\navegador web\navegadorweb\bin\Debug\locales\en-GB.pak
+D:\Proyecto C#\navegador web\navegadorweb\bin\Debug\locales\en-US.pak
+D:\Proyecto C#\navegador web\navegadorweb\bin\Debug\locales\es-419.pak
+D:\Proyecto C#\navegador web\navegadorweb\bin\Debug\locales\es.pak
+D:\Proyecto C#\navegador web\navegadorweb\bin\Debug\locales\et.pak
+D:\Proyecto C#\navegador web\navegadorweb\bin\Debug\locales\fa.pak
+D:\Proyecto C#\navegador web\navegadorweb\bin\Debug\locales\fi.pak
+D:\Proyecto C#\navegador web\navegadorweb\bin\Debug\locales\fil.pak
+D:\Proyecto C#\navegador web\navegadorweb\bin\Debug\locales\fr.pak
+D:\Proyecto C#\navegador web\navegadorweb\bin\Debug\locales\gu.pak
+D:\Proyecto C#\navegador web\navegadorweb\bin\Debug\locales\he.pak
+D:\Proyecto C#\navegador web\navegadorweb\bin\Debug\locales\hi.pak
+D:\Proyecto C#\navegador web\navegadorweb\bin\Debug\locales\hr.pak
+D:\Proyecto C#\navegador web\navegadorweb\bin\Debug\locales\hu.pak
+D:\Proyecto C#\navegador web\navegadorweb\bin\Debug\locales\id.pak
+D:\Proyecto C#\navegador web\navegadorweb\bin\Debug\locales\it.pak
+D:\Proyecto C#\navegador web\navegadorweb\bin\Debug\locales\ja.pak
+D:\Proyecto C#\navegador web\navegadorweb\bin\Debug\locales\kn.pak
+D:\Proyecto C#\navegador web\navegadorweb\bin\Debug\locales\ko.pak
+D:\Proyecto C#\navegador web\navegadorweb\bin\Debug\locales\lt.pak
+D:\Proyecto C#\navegador web\navegadorweb\bin\Debug\locales\lv.pak
+D:\Proyecto C#\navegador web\navegadorweb\bin\Debug\locales\ml.pak
+D:\Proyecto C#\navegador web\navegadorweb\bin\Debug\locales\mr.pak
+D:\Proyecto C#\navegador web\navegadorweb\bin\Debug\locales\ms.pak
+D:\Proyecto C#\navegador web\navegadorweb\bin\Debug\locales\nb.pak
+D:\Proyecto C#\navegador web\navegadorweb\bin\Debug\locales\nl.pak
+D:\Proyecto C#\navegador web\navegadorweb\bin\Debug\locales\pl.pak
+D:\Proyecto C#\navegador web\navegadorweb\bin\Debug\locales\pt-BR.pak
+D:\Proyecto C#\navegador web\navegadorweb\bin\Debug\locales\pt-PT.pak
+D:\Proyecto C#\navegador web\navegadorweb\bin\Debug\locales\ro.pak
+D:\Proyecto C#\navegador web\navegadorweb\bin\Debug\locales\ru.pak
+D:\Proyecto C#\navegador web\navegadorweb\bin\Debug\locales\sk.pak
+D:\Proyecto C#\navegador web\navegadorweb\bin\Debug\locales\sl.pak
+D:\Proyecto C#\navegador web\navegadorweb\bin\Debug\locales\sr.pak
+D:\Proyecto C#\navegador web\navegadorweb\bin\Debug\locales\sv.pak
+D:\Proyecto C#\navegador web\navegadorweb\bin\Debug\locales\sw.pak
+D:\Proyecto C#\navegador web\navegadorweb\bin\Debug\locales\ta.pak
+D:\Proyecto C#\navegador web\navegadorweb\bin\Debug\locales\te.pak
+D:\Proyecto C#\navegador web\navegadorweb\bin\Debug\locales\th.pak
+D:\Proyecto C#\navegador web\navegadorweb\bin\Debug\locales\tr.pak
+D:\Proyecto C#\navegador web\navegadorweb\bin\Debug\locales\uk.pak
+D:\Proyecto C#\navegador web\navegadorweb\bin\Debug\locales\ur.pak
+D:\Proyecto C#\navegador web\navegadorweb\bin\Debug\locales\vi.pak
+D:\Proyecto C#\navegador web\navegadorweb\bin\Debug\locales\zh-CN.pak
+D:\Proyecto C#\navegador web\navegadorweb\bin\Debug\locales\zh-TW.pak
+D:\Proyecto C#\navegador web\navegadorweb\bin\Debug\CefSharp.BrowserSubprocess.Core.dll
+D:\Proyecto C#\navegador web\navegadorweb\bin\Debug\CefSharp.BrowserSubprocess.Core.pdb
+D:\Proyecto C#\navegador web\navegadorweb\bin\Debug\CefSharp.BrowserSubprocess.exe
+D:\Proyecto C#\navegador web\navegadorweb\bin\Debug\CefSharp.BrowserSubprocess.pdb
+D:\Proyecto C#\navegador web\navegadorweb\bin\Debug\x86\WebView2Loader.dll
+D:\Proyecto C#\navegador web\navegadorweb\bin\Debug\x64\WebView2Loader.dll
+D:\Proyecto C#\navegador web\navegadorweb\bin\Debug\arm64\WebView2Loader.dll
+D:\Proyecto C#\navegador web\navegadorweb\bin\Debug\navegadorweb.exe.config
+D:\Proyecto C#\navegador web\navegadorweb\bin\Debug\navegadorweb.exe
+D:\Proyecto C#\navegador web\navegadorweb\bin\Debug\navegadorweb.pdb
+D:\Proyecto C#\navegador web\navegadorweb\bin\Debug\CefSharp.Core.dll
+D:\Proyecto C#\navegador web\navegadorweb\bin\Debug\CefSharp.dll
+D:\Proyecto C#\navegador web\navegadorweb\bin\Debug\CefSharp.Wpf.dll
+D:\Proyecto C#\navegador web\navegadorweb\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Proyecto C#\navegador web\navegadorweb\bin\Debug\Microsoft.Web.WebView2.Core.dll
+D:\Proyecto C#\navegador web\navegadorweb\bin\Debug\Microsoft.Web.WebView2.DevToolsProtocolExtension.dll
+D:\Proyecto C#\navegador web\navegadorweb\bin\Debug\Microsoft.Web.WebView2.WinForms.dll
+D:\Proyecto C#\navegador web\navegadorweb\bin\Debug\Microsoft.Web.WebView2.Wpf.dll
+D:\Proyecto C#\navegador web\navegadorweb\bin\Debug\System.Buffers.dll
+D:\Proyecto C#\navegador web\navegadorweb\bin\Debug\System.Memory.dll
+D:\Proyecto C#\navegador web\navegadorweb\bin\Debug\System.Numerics.Vectors.dll
+D:\Proyecto C#\navegador web\navegadorweb\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Proyecto C#\navegador web\navegadorweb\bin\Debug\System.Text.Encodings.Web.dll
+D:\Proyecto C#\navegador web\navegadorweb\bin\Debug\System.Text.Json.dll
+D:\Proyecto C#\navegador web\navegadorweb\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Proyecto C#\navegador web\navegadorweb\bin\Debug\System.ValueTuple.dll
+D:\Proyecto C#\navegador web\navegadorweb\bin\Debug\CefSharp.pdb
+D:\Proyecto C#\navegador web\navegadorweb\bin\Debug\CefSharp.xml
+D:\Proyecto C#\navegador web\navegadorweb\bin\Debug\CefSharp.Core.pdb
+D:\Proyecto C#\navegador web\navegadorweb\bin\Debug\CefSharp.Core.xml
+D:\Proyecto C#\navegador web\navegadorweb\bin\Debug\CefSharp.Wpf.pdb
+D:\Proyecto C#\navegador web\navegadorweb\bin\Debug\CefSharp.Wpf.xml
+D:\Proyecto C#\navegador web\navegadorweb\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Proyecto C#\navegador web\navegadorweb\bin\Debug\Microsoft.Web.WebView2.Core.xml
+D:\Proyecto C#\navegador web\navegadorweb\bin\Debug\Microsoft.Web.WebView2.DevToolsProtocolExtension.xml
+D:\Proyecto C#\navegador web\navegadorweb\bin\Debug\Microsoft.Web.WebView2.WinForms.xml
+D:\Proyecto C#\navegador web\navegadorweb\bin\Debug\Microsoft.Web.WebView2.Wpf.xml
+D:\Proyecto C#\navegador web\navegadorweb\bin\Debug\System.Buffers.xml
+D:\Proyecto C#\navegador web\navegadorweb\bin\Debug\System.Memory.xml
+D:\Proyecto C#\navegador web\navegadorweb\bin\Debug\System.Numerics.Vectors.xml
+D:\Proyecto C#\navegador web\navegadorweb\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Proyecto C#\navegador web\navegadorweb\bin\Debug\System.Text.Encodings.Web.xml
+D:\Proyecto C#\navegador web\navegadorweb\bin\Debug\System.Text.Json.xml
+D:\Proyecto C#\navegador web\navegadorweb\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Proyecto C#\navegador web\navegadorweb\bin\Debug\System.ValueTuple.xml
+D:\Proyecto C#\navegador web\navegadorweb\obj\Debug\navegadorweb.csproj.AssemblyReference.cache
+D:\Proyecto C#\navegador web\navegadorweb\obj\Debug\Borrarhistorialpopup.g.cs
+D:\Proyecto C#\navegador web\navegadorweb\obj\Debug\Guardadodehistorialpopup.g.cs
+D:\Proyecto C#\navegador web\navegadorweb\obj\Debug\Historialexistente.g.cs
+D:\Proyecto C#\navegador web\navegadorweb\obj\Debug\Cefexplorer.g.cs
+D:\Proyecto C#\navegador web\navegadorweb\obj\Debug\App.g.cs
+D:\Proyecto C#\navegador web\navegadorweb\obj\Debug\navegadorweb_Content.g.cs
+D:\Proyecto C#\navegador web\navegadorweb\obj\Debug\navegadorweb_MarkupCompile.cache
+D:\Proyecto C#\navegador web\navegadorweb\obj\Debug\navegadorweb_MarkupCompile.lref
+D:\Proyecto C#\navegador web\navegadorweb\obj\Debug\Borrarhistorialpopup.baml
+D:\Proyecto C#\navegador web\navegadorweb\obj\Debug\Guardadodehistorialpopup.baml
+D:\Proyecto C#\navegador web\navegadorweb\obj\Debug\Historialexistente.baml
+D:\Proyecto C#\navegador web\navegadorweb\obj\Debug\Cefexplorer.baml
+D:\Proyecto C#\navegador web\navegadorweb\obj\Debug\navegadorweb.g.resources
+D:\Proyecto C#\navegador web\navegadorweb\obj\Debug\navegadorweb.Properties.Resources.resources
+D:\Proyecto C#\navegador web\navegadorweb\obj\Debug\navegadorweb.csproj.GenerateResource.cache
+D:\Proyecto C#\navegador web\navegadorweb\obj\Debug\navegadorweb.csproj.CoreCompileInputs.cache
+D:\Proyecto C#\navegador web\navegadorweb\obj\Debug\navegadorweb.csproj.CopyComplete
+D:\Proyecto C#\navegador web\navegadorweb\obj\Debug\navegadorweb.exe
+D:\Proyecto C#\navegador web\navegadorweb\obj\Debug\navegadorweb.pdb
