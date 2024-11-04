@@ -2,8 +2,6 @@
 Tienes que instalar en Nuget el archivo
 ![xxs](https://github.com/user-attachments/assets/699f9430-3f57-41c3-9aae-b065772abf92)
 
-CefSharp.Wpf
-
 Los iconos que he puesto en el proyecto los he cogido de esta pagina web os dejo los link de los iconos:
 
 https://pixabay.com/es/vectors/flecha-verde-izquierda-direcci%C3%B3n-303156/
