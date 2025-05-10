@@ -7,7 +7,22 @@ CefExplorer es un navegador web basado en CefSharp, diseñado para ofrecer una e
 
 📌 Recursos utilizados: Los iconos incorporados en el proyecto han sido seleccionados de Pixabay para mejorar la experiencia visual. Aquí están los enlaces a los íconos utilizados:
 
-🔗 Flecha verde izquierda 🔗 Flecha derecha verde 🔗 Recargar icono 🔗 Carpeta favorito 🔗 Cerrar salir 🔗 Casa icono 🔗 Reloj tiempo 🔗 Más expandido 🔗 Información ayuda 🔗 Advertencia señal
-Tienes que instalar en Nuget el archivo
+https://pixabay.com/es/vectors/flecha-verde-izquierda-direcci%C3%B3n-303156/
 
+https://pixabay.com/es/vectors/flecha-derecho-verde-curva-pr%C3%B3ximo-31213/
 
+https://pixabay.com/es/vectors/reciclar-recargar-icono-arrown-159650/
+
+https://pixabay.com/es/vectors/carpeta-favorito-archivo-23275/
+
+https://pixabay.com/es/vectors/cerrar-salir-prohibido-quitar-7772967/
+
+https://pixabay.com/es/vectors/casa-icono-silueta-edificio-146585/
+
+https://pixabay.com/es/vectors/tiempo-reloj-1606153/
+
+https://pixabay.com/es/vectors/m%C3%A1s-expandido-otro-adem%C3%A1s-3614167/
+
+https://pixabay.com/es/vectors/info-informaci%C3%B3n-ayuda-icono-apoyo-147927/
+
+https://pixabay.com/es/vectors/firmar-advertencia-5673711/
